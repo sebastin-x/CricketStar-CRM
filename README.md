@@ -1,1 +1,1 @@
-# CricketStar-CRM
+# CricketStats-CRM
